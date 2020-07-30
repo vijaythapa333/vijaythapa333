@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**vijaythapa333/vijaythapa333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Vijay Thapa](https://1.bp.blogspot.com/-LY_mA1shViM/XyJdg2IwHKI/AAAAAAAAEk4/2XchgntHYI8_ouf5fUh02kd94b2ceeGIwCLcBGAsYHQ/s1640/vija-thapa-cover.jpg)
 
-Here are some ideas to get you started:
+Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software developer from NEPAL 🇳🇵🏔. I create & share digital contents ([Courses](https://www.youtube.com/vijaythapa?sub_confirmation=1 "Vijay Thapa Online Courses"), Blog Posts and Open Source Projects) for **FREE**.
+
+
+## 🤔 Current Status 
+- 🔭 I’m currently working on Django Projects.
+- 🌱 I’m currently learning Rest API & Performance Optimization in Django
+
+## 💬 Ask me about 
+- Software Development in C#, PHP (OOP) & Django 
+- Traveling in Nepal 🇳🇵
+
+## 📫 How to reach me:
+- Email: hi@vijaythapa.com
+- LinkedIn: [linkedin.com/in/vijaythapa](https://www.linkedin.com/in/vijaythapa/ "LinkedIn Vijay Thapa")
+- YouTube: [youtube.com/vijaythapa](https://www.youtube.com/vijaythapa?sub_confirmation=1 "Vijay Thapa Online Courses")
+
+## ⚡ Fun fact: 
+
+👨🏼‍🍳 Can Cook
+
+♥️ Traveling
+
